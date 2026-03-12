@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 import { ReactLight } from "@/components/ui/svgs/reactLight";
@@ -234,24 +235,13 @@ export const DATA = {
     },
 
   ],
-  hackathons: [
-    // {
-    //   title: "Hack 5",
-    //   dates: "2018",
-    //   location: "",
-    //   description: "",
-    //   image: "",
-    //   mlh: "",
-    //   links: [],
-    // },
-    // {
-    //   title: "Hack",
-    //   dates: "2018",
-    //   location: "",
-    //   description: "",
-    //   image: "",
-    //   mlh: "",
-    //   links: [],
-    // },
-  ],
+  hackathons: [] as {
+    title?: string;
+    dates?: string;
+    location?: string;
+    description?: string;
+    image?: string;
+    mlh?: string;
+    links?: Array<{ href: string; title: string; icon: ReactNode }>;
+  }[],
 } as const;
