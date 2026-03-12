@@ -27,10 +27,10 @@ export default function ProjectsSection() {
                         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl"></h2>
                         <p className="text-muted-foreground md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed text-balance text-center">
                             I&apos;ve worked on a variety of {""}
-                            <Link href="https://kavyamoharana.github.io/projects/" className="text-primary hover:underline underline-offset-4">
+                            <Link href="https://kavyamoharana.github.io/projects/" className="text-blue-500 hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm">
                                 projects
                             </Link>{" "}
-                            at UIUC, here are a few of my favorites!
+                            at UIUC and beyond. Here are a few of my favorites!
                         </p>
                     </div>
                 </div>

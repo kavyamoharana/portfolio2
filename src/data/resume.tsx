@@ -27,7 +27,7 @@ import { FastAPI } from "@/components/ui/svgs/fastapi";
 export const DATA = {
   name: "Kavya Moharana",
   initials: "KM",
-  url: "https://dillion.io",
+  url: "https://kavyamoharana.vercel.app",
   location: "",
   locationLink: "",
   description:
@@ -60,14 +60,14 @@ export const DATA = {
     // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "kavyamoharana@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
         name: "GitHub",
         url: "https://github.com/kavyamoharana/kavyamoharana.github.io",
         icon: Icons.github,
-        navbar: true,
+        navbar: false,
       },
 
       LinkedIn: {
