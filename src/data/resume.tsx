@@ -31,7 +31,7 @@ export const DATA = {
   location: "",
   locationLink: "",
   description:
-    "UIUC Data Science Graduate. Passionate about human-centered and meaningful applications of data. Interested in all things analytics, data engineering, visualization, and health informatics!",
+    "Data Engineer. UIUC Data Science Graduate. Passionate about human-centered and meaningful applications of data. Interested in all things analytics, data engineering, visualization, and health informatics!",
   summary:
     "Currently building Python-driven Agentic AI solutions for [TempoDyn](https://tempodyn.com/), an emerging startup for assisting government form processing and automating tasks across Healthcare, Social Services, and Finance. Growing hands-on experience in backend development, creating scalable data pipelines, LLM-based workflow automation, and applied AI systems. \n Previously, I was part of the [UIUC Center for Health Informatics](https://chi.healtheng.illinois.edu/projects/chime-in-illinois/) AI for Infodemic Management research team at the School of Information Sciences. During my senior year, I worked to improve the functionality of an AI [web tool](https://misinformation-detection.streamlit.app/) for detecting health-based misinformation across social media platforms such as TikTok, participating in the World Health Organization's initiative to combat 'Infodemics'.",
   avatarUrl: "/jphouse-ver2.jpg",
@@ -95,12 +95,12 @@ export const DATA = {
       href: "https://tempodyn.com/",
       badges: [],
       location: "",
-      title: "Data Engineer Intern",
+      title: "Data Engineer — Applied AI",
       logoUrl: "/td-logo.jpeg",
       start: "August 2025",
       end: "Present",
       description:
-        "Designing and building backend services alongside LLM-powered automation pipelines. Integrating APIs and supporting full stack application development. Using FastAPI, RESTful APIs, GPT-4, Gemini, and LangChain. Leveraging MongoDB, AWS S3, and RAG system for data persistence and contextual retrieval.",
+        "Designing and building backend services, AI agents, and LLM-powered automation pipelines. Integrating APIs and supporting full stack application development. Using FastAPI, RESTful APIs, GPT-4, Gemini, and LangChain. Leveraging MongoDB, AWS S3, and RAG system for data persistence and contextual retrieval.",
     },
 
     {
