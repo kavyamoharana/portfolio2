@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kavya Moharana</h2>
-<h4 align="center">UIUC IS + Data Science grad and aspiring Data Engineer :) </h4>
+<h4 align="center">Data Engineer & UIUC IS + Data Science grad :) </h4>
 
 - 👨‍💻 All of my projects are available at: https://kavyamoharana.github.io/projects/
 
