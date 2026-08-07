@@ -124,8 +124,10 @@ export default async function Image() {
                             )}
                             <div style={styles.mainContainer}>
                                 <div style={styles.title}>{DATA.name}</div>
-                                {DATA.description && (
-                                    <div style={styles.description}>{DATA.description}</div>
+                                {DATA.descriptionHighlight && (
+                                    <div style={styles.description}>
+                                        {`${DATA.descriptionHighlight} ${DATA.description}`}
+                                    </div>
                                 )}
                             </div>
                         </div>

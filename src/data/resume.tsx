@@ -30,10 +30,11 @@ export const DATA = {
   url: "https://kavyamoharana.vercel.app",
   location: "",
   locationLink: "",
+  descriptionHighlight: "Data Engineer. UIUC Data Science Graduate.",
   description:
-    "Data Engineer. UIUC Data Science Graduate. Passionate about human-centered and meaningful applications of data. Interested in all things analytics, data engineering, visualization, and health informatics!",
+    "Passionate about human-centered and meaningful applications of data. Interested in all things analytics, ML, visualization, and health informatics!",
   summary:
-    "Currently building Python-driven Agentic AI solutions for [TempoDyn](https://tempodyn.com/), an emerging startup for assisting government form processing and automating tasks across Healthcare, Social Services, and Finance. Growing hands-on experience in backend development, creating scalable data pipelines, LLM-based workflow automation, and applied AI systems. \n Previously, I was part of the [UIUC Center for Health Informatics](https://chi.healtheng.illinois.edu/projects/chime-in-illinois/) AI for Infodemic Management research team at the School of Information Sciences. During my senior year, I worked to improve the functionality of an AI [web tool](https://misinformation-detection.streamlit.app/) for detecting health-based misinformation across social media platforms such as TikTok, participating in the World Health Organization's initiative to combat 'Infodemics'.",
+    "Currently building Python-driven Agentic AI solutions at [TempoDyn](https://tempodyn.com/), a startup automating tasks across Healthcare, Civic Services, and Finance. Growing hands-on experience in backend development, creating scalable data pipelines, LLM-based workflow automation, and applied AI systems. \n Previously, I was part of the [UIUC Center for Health Informatics](https://chi.healtheng.illinois.edu/projects/chime-in-illinois/) AI for Infodemic Management research team at the School of Information Sciences. During my senior year, I worked to improve the functionality of an AI [web tool](https://misinformation-detection.streamlit.app/) for detecting health-based misinformation across social media platforms such as TikTok, participating in the World Health Organization's initiative to combat 'Infodemics'.",
   avatarUrl: "/jphouse-ver2.jpg",
   skills: [
     { name: "Python", icon: Python },
@@ -64,10 +65,10 @@ export const DATA = {
     tel: "+123456789",
     social: {
       GitHub: {
-        name: "GitHub",
-        url: "https://github.com/kavyamoharana/kavyamoharana.github.io",
+        name: "Projects",
+        url: "https://kavyamoharana.github.io/projects",
         icon: Icons.github,
-        navbar: false,
+        navbar: true,
       },
 
       LinkedIn: {
